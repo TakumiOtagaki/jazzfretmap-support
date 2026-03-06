@@ -37,4 +37,4 @@ Because we do not collect or transmit data, your information remains on your dev
 If we make changes, we will update the Effective Date and post the revised policy with the app or on our website if one is added.
 
 ## Contact
-If you have any questions, contact us at takumi@example.com.
+If you have any questions, contact us at takumiotagaki@gmail.com.

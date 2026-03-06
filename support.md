@@ -41,7 +41,7 @@ For bugs or issues, please open a GitHub Issue in this repository and include:
 - Steps to reproduce
 - Screenshots (if relevant)
 
-You can also reach us at takumi@example.com.
+You can also reach us at takumiotagaki@gmail.com.
 
 ## Feature Requests
 Feature ideas are welcome. Please open a GitHub Issue and add the label `enhancement`.
